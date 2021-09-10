@@ -13,8 +13,16 @@ Initial analysis on DQ stock shows how actively the stock is traded daily and th
 ### Results
 Since the Stock Chosen had negative return for the year of 2018, we offer analysis in all stocks to show better options, comparing the stock performance between 2017 and 2018, with interactive button to facilitate the visualization of the results of the analysis.
 
-### Using refactoring code
+### Summary
 Using Refactoring code to run analysis in the whole data brining fast results, responding few possible questions with a simple click of a button, optmizing the analysis and reducing time in presenting data.
+
+*Sub AllStocksAnalysisRefactored()
+    Dim startTime As Single
+    Dim endTime  As Single
+
+Unsing a timer to show the exact time the analysis is ran and delivered.
+
+*startTime = Timer
 
 
 
