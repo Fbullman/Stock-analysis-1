@@ -22,7 +22,7 @@ Using Refactoring code to run analysis in the whole data brining fast results, r
 
 Unsing a timer to show the exact time the analysis is ran and delivered.
 
-*startTime = Timer
+2. - startTime = Timer
 
 ![This is an image](https://github.com/Fbullman/Stock-analysis/blob/main/Resources/VBA_Challenge_2017.png)
 
