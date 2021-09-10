@@ -3,5 +3,5 @@
 ### Purpose
 Perform data analysis on green energy company stocks using VBA
 ## Analysis 
-Demonstrating how actively the stock is traded daily and showing the percentage measure for the yearly return indicates Steves interst in the stcoks from Daqo company.
+Initial analysis on DQ stock shows how actively the stock is traded daily and the percentage measure for the yearly return, which indicates the need for more analysis af all stocks data to demonstrate wich stock perrformed well and which ones didn't.
 
