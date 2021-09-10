@@ -3,7 +3,7 @@
 ### Purpose
 Perform data analysis on green energy company stocks using VBA
 ## Analysis 
-Performing analysis on stock performance in a client's preferred DQ energy green company, showed how actively the stock was traded daily and measure the percentage for the yearly return, which indicates the need for more analysis on other company data options to demonstrate wich stocks performed well and which ones didn't.
+Performing analysis on stock performance in a client's preferred, DQ green energy company, showed how actively the stock was traded daily and measure the percentage for the yearly return, which indicates the need for more analysis on other company data options to demonstrate wich stocks performed well and which ones didn't.
 
 
 
