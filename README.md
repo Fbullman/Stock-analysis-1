@@ -17,3 +17,5 @@ Since the Stock Chosen had negative return for the year of 2018, we offer analys
 
 
 
+
+
