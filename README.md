@@ -10,7 +10,11 @@ Initial analysis on DQ stock shows how actively the stock is traded daily and th
 ![This is an image](https://github.com/Fbullman/Stock-analysis/blob/main/DQ%20negative%20Return%20(2).png)
 
 
-Since the Stock Chosen had negative return for the year of 2018, we offer analysis in all stocks to show better options.
+##Results
+Since the Stock Chosen had negative return for the year of 2018, we offer analysis in all stocks to show better options, comparing the stock performance between 2017 and 2018, with interactive button to facilitate the visualization of the results of the analysis.
+
+##Using refactoring code
+Using Refactoring code to run analysis in the whole data brining fast results, responding few possible questions with a simple click of a button, optmizing the analysis and reducing time in presenting data.
 
 
 
